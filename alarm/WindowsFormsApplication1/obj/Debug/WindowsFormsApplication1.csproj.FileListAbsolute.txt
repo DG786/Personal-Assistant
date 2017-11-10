@@ -1,0 +1,12 @@
+D:\non core\softwareDev\Chat\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\non core\softwareDev\Chat\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\non core\softwareDev\Chat\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\non core\softwareDev\Chat\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\non core\softwareDev\Chat\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\non core\softwareDev\Chat\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\non core\softwareDev\Chat\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\non core\softwareDev\Chat\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\non core\softwareDev\Chat\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Vijay\Documents\alarm\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Vijay\Documents\alarm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Vijay\Documents\alarm\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

@@ -1,0 +1,36 @@
+D:\non core\softwareDev\Chat\Cortana\Cortana\bin\Debug\Cortana.exe.config
+D:\non core\softwareDev\Chat\Cortana\Cortana\obj\Debug\Cortana.csprojResolveAssemblyReference.cache
+D:\non core\softwareDev\Chat\Cortana\Cortana\obj\Debug\Cortana.Form1.resources
+D:\non core\softwareDev\Chat\Cortana\Cortana\obj\Debug\Cortana.Properties.Resources.resources
+D:\non core\softwareDev\Chat\Cortana\Cortana\obj\Debug\Cortana.csproj.GenerateResource.Cache
+D:\non core\softwareDev\Chat\Cortana\Cortana\bin\Debug\Cortana.exe
+D:\non core\softwareDev\Chat\Cortana\Cortana\bin\Debug\Cortana.pdb
+D:\non core\softwareDev\Chat\Cortana\Cortana\obj\Debug\Cortana.exe
+D:\non core\softwareDev\Chat\Cortana\Cortana\obj\Debug\Cortana.pdb
+C:\Users\Vijay\Downloads\Cortana\Cortana\bin\Debug\Cortana.exe.config
+C:\Users\Vijay\Downloads\Cortana\Cortana\obj\Debug\Cortana.exe
+C:\Users\Vijay\Downloads\Cortana\Cortana\obj\Debug\Cortana.pdb
+C:\Users\Vijay\Downloads\Cortana\Cortana\bin\Debug\Cortana.exe
+C:\Users\Vijay\Downloads\Cortana\Cortana\bin\Debug\Cortana.pdb
+C:\Users\Vijay\Downloads\Cortana\Cortana\obj\Debug\Cortana.csprojResolveAssemblyReference.cache
+C:\Users\Vijay\Downloads\Cortana\Cortana\obj\Debug\Cortana.Form1.resources
+C:\Users\Vijay\Downloads\Cortana\Cortana\obj\Debug\Cortana.Properties.Resources.resources
+C:\Users\Vijay\Downloads\Cortana\Cortana\obj\Debug\Cortana.csproj.GenerateResource.Cache
+C:\Users\Vijay\Documents\Cortana\Cortana\bin\Debug\Cortana.exe.config
+C:\Users\Vijay\Documents\Cortana\Cortana\obj\Debug\Cortana.exe
+C:\Users\Vijay\Documents\Cortana\Cortana\obj\Debug\Cortana.pdb
+C:\Users\Vijay\Documents\Cortana\Cortana\bin\Debug\Cortana.exe
+C:\Users\Vijay\Documents\Cortana\Cortana\bin\Debug\Cortana.pdb
+C:\Users\Vijay\Documents\Cortana\Cortana\obj\Debug\Cortana.csprojResolveAssemblyReference.cache
+C:\Users\Vijay\Documents\Cortana\Cortana\obj\Debug\Cortana.Form1.resources
+C:\Users\Vijay\Documents\Cortana\Cortana\obj\Debug\Cortana.Properties.Resources.resources
+C:\Users\Vijay\Documents\Cortana\Cortana\obj\Debug\Cortana.csproj.GenerateResource.Cache
+C:\Users\Vijay\Documents\updated cortana\Cortana\Cortana\bin\Debug\Cortana.exe.config
+C:\Users\Vijay\Documents\updated cortana\Cortana\Cortana\obj\Debug\Cortana.exe
+C:\Users\Vijay\Documents\updated cortana\Cortana\Cortana\obj\Debug\Cortana.pdb
+C:\Users\Vijay\Documents\updated cortana\Cortana\Cortana\bin\Debug\Cortana.exe
+C:\Users\Vijay\Documents\updated cortana\Cortana\Cortana\bin\Debug\Cortana.pdb
+C:\Users\Vijay\Documents\updated cortana\Cortana\Cortana\obj\Debug\Cortana.csprojResolveAssemblyReference.cache
+C:\Users\Vijay\Documents\updated cortana\Cortana\Cortana\obj\Debug\Cortana.Form1.resources
+C:\Users\Vijay\Documents\updated cortana\Cortana\Cortana\obj\Debug\Cortana.Properties.Resources.resources
+C:\Users\Vijay\Documents\updated cortana\Cortana\Cortana\obj\Debug\Cortana.csproj.GenerateResource.Cache

@@ -1,0 +1,11 @@
+D:\non core\softwareDev\ConsoleApplication13\ConsoleApplication13\bin\Debug\ConsoleApplication13.exe.config
+D:\non core\softwareDev\ConsoleApplication13\ConsoleApplication13\obj\Debug\ConsoleApplication13.csprojResolveAssemblyReference.cache
+D:\non core\softwareDev\ConsoleApplication13\ConsoleApplication13\bin\Debug\ConsoleApplication13.exe
+D:\non core\softwareDev\ConsoleApplication13\ConsoleApplication13\bin\Debug\ConsoleApplication13.pdb
+D:\non core\softwareDev\ConsoleApplication13\ConsoleApplication13\bin\Debug\Newtonsoft.Json.dll
+D:\non core\softwareDev\ConsoleApplication13\ConsoleApplication13\bin\Debug\Newtonsoft.Json.xml
+D:\non core\softwareDev\ConsoleApplication13\ConsoleApplication13\obj\Debug\ConsoleApplication13.exe
+D:\non core\softwareDev\ConsoleApplication13\ConsoleApplication13\obj\Debug\ConsoleApplication13.pdb
+C:\Users\Vijay\Documents\for cortana skill\ConsoleApplication13\ConsoleApplication13\bin\Debug\ConsoleApplication13.exe.config
+C:\Users\Vijay\Documents\for cortana skill\ConsoleApplication13\ConsoleApplication13\obj\Debug\ConsoleApplication13.exe
+C:\Users\Vijay\Documents\for cortana skill\ConsoleApplication13\ConsoleApplication13\obj\Debug\ConsoleApplication13.pdb

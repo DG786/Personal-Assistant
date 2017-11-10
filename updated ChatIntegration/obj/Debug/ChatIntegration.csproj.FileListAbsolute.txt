@@ -1,0 +1,73 @@
+D:\non core\softwareDev\Chat\ChatIntegration\ChatIntegration\bin\Bot Application.dll.config
+D:\non core\softwareDev\Chat\ChatIntegration\ChatIntegration\bin\Bot Application.dll
+D:\non core\softwareDev\Chat\ChatIntegration\ChatIntegration\bin\Bot Application.pdb
+D:\non core\softwareDev\Chat\ChatIntegration\ChatIntegration\bin\Autofac.dll
+D:\non core\softwareDev\Chat\ChatIntegration\ChatIntegration\bin\Chronic.dll
+D:\non core\softwareDev\Chat\ChatIntegration\ChatIntegration\bin\Microsoft.Bot.Builder.Autofac.dll
+D:\non core\softwareDev\Chat\ChatIntegration\ChatIntegration\bin\Microsoft.Bot.Builder.dll
+D:\non core\softwareDev\Chat\ChatIntegration\ChatIntegration\bin\Microsoft.Bot.Connector.dll
+D:\non core\softwareDev\Chat\ChatIntegration\ChatIntegration\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+D:\non core\softwareDev\Chat\ChatIntegration\ChatIntegration\bin\Microsoft.Rest.ClientRuntime.dll
+D:\non core\softwareDev\Chat\ChatIntegration\ChatIntegration\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\non core\softwareDev\Chat\ChatIntegration\ChatIntegration\bin\Newtonsoft.Json.dll
+D:\non core\softwareDev\Chat\ChatIntegration\ChatIntegration\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\non core\softwareDev\Chat\ChatIntegration\ChatIntegration\bin\System.Net.Http.Formatting.dll
+D:\non core\softwareDev\Chat\ChatIntegration\ChatIntegration\bin\System.Web.Http.dll
+D:\non core\softwareDev\Chat\ChatIntegration\ChatIntegration\bin\System.Web.Http.WebHost.dll
+D:\non core\softwareDev\Chat\ChatIntegration\ChatIntegration\bin\Autofac.xml
+D:\non core\softwareDev\Chat\ChatIntegration\ChatIntegration\bin\Microsoft.Bot.Builder.xml
+D:\non core\softwareDev\Chat\ChatIntegration\ChatIntegration\bin\Microsoft.Bot.Builder.Autofac.xml
+D:\non core\softwareDev\Chat\ChatIntegration\ChatIntegration\bin\Microsoft.Bot.Connector.xml
+D:\non core\softwareDev\Chat\ChatIntegration\ChatIntegration\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+D:\non core\softwareDev\Chat\ChatIntegration\ChatIntegration\bin\Microsoft.WindowsAzure.Configuration.xml
+D:\non core\softwareDev\Chat\ChatIntegration\ChatIntegration\bin\Newtonsoft.Json.xml
+D:\non core\softwareDev\Chat\ChatIntegration\ChatIntegration\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\non core\softwareDev\Chat\ChatIntegration\ChatIntegration\bin\System.Net.Http.Formatting.xml
+D:\non core\softwareDev\Chat\ChatIntegration\ChatIntegration\bin\System.Web.Http.xml
+D:\non core\softwareDev\Chat\ChatIntegration\ChatIntegration\bin\System.Web.Http.WebHost.xml
+D:\non core\softwareDev\Chat\ChatIntegration\ChatIntegration\bin\ar\Microsoft.Bot.Builder.resources.dll
+D:\non core\softwareDev\Chat\ChatIntegration\ChatIntegration\bin\cs\Microsoft.Bot.Builder.resources.dll
+D:\non core\softwareDev\Chat\ChatIntegration\ChatIntegration\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+D:\non core\softwareDev\Chat\ChatIntegration\ChatIntegration\bin\en\Microsoft.Bot.Builder.resources.dll
+D:\non core\softwareDev\Chat\ChatIntegration\ChatIntegration\bin\es\Microsoft.Bot.Builder.resources.dll
+D:\non core\softwareDev\Chat\ChatIntegration\ChatIntegration\bin\fa\Microsoft.Bot.Builder.resources.dll
+D:\non core\softwareDev\Chat\ChatIntegration\ChatIntegration\bin\fr\Microsoft.Bot.Builder.resources.dll
+D:\non core\softwareDev\Chat\ChatIntegration\ChatIntegration\bin\it\Microsoft.Bot.Builder.resources.dll
+D:\non core\softwareDev\Chat\ChatIntegration\ChatIntegration\bin\ja\Microsoft.Bot.Builder.resources.dll
+D:\non core\softwareDev\Chat\ChatIntegration\ChatIntegration\bin\nl\Microsoft.Bot.Builder.resources.dll
+D:\non core\softwareDev\Chat\ChatIntegration\ChatIntegration\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+D:\non core\softwareDev\Chat\ChatIntegration\ChatIntegration\bin\ru\Microsoft.Bot.Builder.resources.dll
+D:\non core\softwareDev\Chat\ChatIntegration\ChatIntegration\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+D:\non core\softwareDev\Chat\ChatIntegration\ChatIntegration\obj\Debug\ChatIntegration.csprojResolveAssemblyReference.cache
+D:\non core\softwareDev\Chat\ChatIntegration\ChatIntegration\obj\Debug\Bot Application.dll
+D:\non core\softwareDev\Chat\ChatIntegration\ChatIntegration\obj\Debug\Bot Application.pdb
+C:\Users\Vijay\Documents\updated ChatIntegration\bin\Bot Application.dll.config
+C:\Users\Vijay\Documents\updated ChatIntegration\bin\Bot Application.dll
+C:\Users\Vijay\Documents\updated ChatIntegration\bin\Bot Application.pdb
+C:\Users\Vijay\Documents\updated ChatIntegration\bin\Autofac.xml
+C:\Users\Vijay\Documents\updated ChatIntegration\bin\Microsoft.Bot.Builder.xml
+C:\Users\Vijay\Documents\updated ChatIntegration\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\Vijay\Documents\updated ChatIntegration\bin\Microsoft.Bot.Connector.xml
+C:\Users\Vijay\Documents\updated ChatIntegration\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\Vijay\Documents\updated ChatIntegration\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Vijay\Documents\updated ChatIntegration\bin\Newtonsoft.Json.xml
+C:\Users\Vijay\Documents\updated ChatIntegration\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Vijay\Documents\updated ChatIntegration\bin\System.Net.Http.Formatting.xml
+C:\Users\Vijay\Documents\updated ChatIntegration\bin\System.Web.Http.xml
+C:\Users\Vijay\Documents\updated ChatIntegration\bin\System.Web.Http.WebHost.xml
+C:\Users\Vijay\Documents\updated ChatIntegration\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\Vijay\Documents\updated ChatIntegration\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\Vijay\Documents\updated ChatIntegration\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\Vijay\Documents\updated ChatIntegration\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\Vijay\Documents\updated ChatIntegration\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\Vijay\Documents\updated ChatIntegration\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\Vijay\Documents\updated ChatIntegration\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\Vijay\Documents\updated ChatIntegration\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Users\Vijay\Documents\updated ChatIntegration\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\Vijay\Documents\updated ChatIntegration\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\Users\Vijay\Documents\updated ChatIntegration\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+C:\Users\Vijay\Documents\updated ChatIntegration\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\Vijay\Documents\updated ChatIntegration\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\Vijay\Documents\updated ChatIntegration\obj\Debug\ChatIntegration.csprojResolveAssemblyReference.cache
+C:\Users\Vijay\Documents\updated ChatIntegration\obj\Debug\Bot Application.dll
+C:\Users\Vijay\Documents\updated ChatIntegration\obj\Debug\Bot Application.pdb
